@@ -1,0 +1,6 @@
+my\utm\ip\spring_jdbc\Config.class
+my\utm\ip\spring_jdbc\Controller\LogbookController.class
+my\utm\ip\spring_jdbc\Model\Logbook.class
+my\utm\ip\spring_jdbc\Model\License.class
+my\utm\ip\spring_jdbc\Controller\LicenseController.class
+my\utm\ip\spring_jdbc\Controller\_Controller.class
